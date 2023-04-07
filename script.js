@@ -6,6 +6,8 @@ var div9 = $('#hour-9');
 var saveBtn2 = $('#hour-10 .saveBtn')
 var textArea2 = $('#hour-10 textarea');
 var div10 = $('#hour-10');
+//hour eleven
+var saveBtn3
 
 
 
